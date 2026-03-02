@@ -495,52 +495,37 @@ http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93759
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/375724
 #EXTINF:-1 tvg-id="" tvg-name="COL | Canal Trece | UHD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-trece-colombia-2005-2012-logo.png" group-title="⭐ COLOMBIA ⭐",COL | Canal Trece | UHD
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/375776
-
-EXTINF:-1 tvg-name="Las Estrellas" group-title="🇲🇽 MÉXICO | ABIERTOS",Las Estrellas
+#EXTINF:-1 tvg-name="Las Estrellas" group-title="MEXICO | ABIERTOS",Las Estrellas
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/283287
-
-#EXTINF:-1 tvg-name="Canal 5 HD" group-title="🇲🇽 MÉXICO | ABIERTOS",Canal 5 HD
+#EXTINF:-1 tvg-name="Canal 5 HD" group-title="MEXICO | ABIERTOS",Canal 5 HD
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/709555
-
-#EXTINF:-1 tvg-name="Azteca UNO" group-title="🇲🇽 MÉXICO | ABIERTOS",Azteca UNO
+#EXTINF:-1 tvg-name="Azteca Uno" group-title="MEXICO | ABIERTOS",Azteca Uno
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/736496
-
-#EXTINF:-1 tvg-name="Azteca 7" group-title="🇲🇽 MÉXICO | ABIERTOS",Azteca 7
+#EXTINF:-1 tvg-name="Azteca 7" group-title="MEXICO | ABIERTOS",Azteca 7
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93860
-
-#EXTINF:-1 tvg-name="ADN 40" group-title="🇲🇽 MÉXICO | ABIERTOS",ADN 40
+#EXTINF:-1 tvg-name="ADN 40" group-title="MEXICO | ABIERTOS",ADN 40
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93866
-
-#EXTINF:-1 tvg-name="Imagen TV" group-title="🇲🇽 MÉXICO | ABIERTOS",Imagen TV
+#EXTINF:-1 tvg-name="Imagen TV" group-title="MEXICO | ABIERTOS",Imagen TV
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/375363
-
-#EXTINF:-1 tvg-name="Mexiquense TV" group-title="🇲🇽 MÉXICO | ABIERTOS",Mexiquense TV
+#EXTINF:-1 tvg-name="Mexiquense TV" group-title="MEXICO | ABIERTOS",Mexiquense TV
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/373853
-#EXTINF:-1 tvg-name="Unicable" group-title="🇲🇽 MÉXICO | ENTRETENIMIENTO",Unicable
+EXTINF:-1 tvg-name="Unicable" group-title="MEXICO | ENTRETENIMIENTO",Unicable
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93877
-
-#EXTINF:-1 tvg-name="Distrito Comedia" group-title="🇲🇽 MÉXICO | ENTRETENIMIENTO",Distrito Comedia
+#EXTINF:-1 tvg-name="Distrito Comedia" group-title="MEXICO | ENTRETENIMIENTO",Distrito Comedia
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/103867
-
-#EXTINF:-1 tvg-name="Azteca Mundo" group-title="🇲🇽 MÉXICO | ENTRETENIMIENTO",Azteca Mundo
+#EXTINF:-1 tvg-name="Azteca Mundo" group-title="MEXICO | ENTRETENIMIENTO",Azteca Mundo
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93870
-
-#EXTINF:-1 tvg-name="Azteca Internacional" group-title="🇲🇽 MÉXICO | ENTRETENIMIENTO",Azteca Internacional
+#EXTINF:-1 tvg-name="Azteca Internacional" group-title="MEXICO | ENTRETENIMIENTO",Azteca Internacional
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93871
-
-#EXTINF:-1 tvg-name="Azteca Corazón" group-title="🇲🇽 MÉXICO | ENTRETENIMIENTO",Azteca Corazón
+#EXTINF:-1 tvg-name="Azteca Corazon" group-title="MEXICO | ENTRETENIMIENTO",Azteca Corazon
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93874
-
-#EXTINF:-1 tvg-name="Estrella TV" group-title="🇲🇽 MÉXICO | ENTRETENIMIENTO",Estrella TV
+#EXTINF:-1 tvg-name="Estrella TV" group-title="MEXICO | ENTRETENIMIENTO",Estrella TV
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/93876
-#EXTINF:-1 tvg-name="FOX Sports 1 MX" group-title="🇲🇽 MÉXICO | DEPORTES",FOX Sports 1 MX
+#EXTINF:-1 tvg-name="Fox Sports 1 MX" group-title="MEXICO | DEPORTES",Fox Sports 1 MX
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/675656
-
-#EXTINF:-1 tvg-name="FOX Sports 2 MX" group-title="🇲🇽 MÉXICO | DEPORTES",FOX Sports 2 MX
+#EXTINF:-1 tvg-name="Fox Sports 2 MX" group-title="MEXICO | DEPORTES",Fox Sports 2 MX
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/397957
-
-#EXTINF:-1 tvg-name="FOX Sports 3 MX" group-title="🇲🇽 MÉXICO | DEPORTES",FOX Sports 3 MX
+#EXTINF:-1 tvg-name="Fox Sports 3 MX" group-title="MEXICO | DEPORTES",Fox Sports 3 MX
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/397958
-
-#EXTINF:-1 tvg-name="FOX Sports Premium MX" group-title="🇲🇽 MÉXICO | DEPORTES",FOX Sports Premium MX
+#EXTINF:-1 tvg-name="Fox Sports Premium MX" group-title="MEXICO | DEPORTES",Fox Sports Premium MX
 http://gama-mx.com:8085/espinalgustavo0919/Gusespi1718/690528
