@@ -1,97 +1,103 @@
 #EXTM3U
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="AMX NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVZMGnQnlmY2UvDh85pgjDGPIM7vVqE4SDQ&s" group-title="▶️ MEXICO",AMX NOTICIAS
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1_YHu-OEf3hHf3TtITqc0-I/m3u8
-#EXTINF:-1 xui-id="16" tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJbJv4yqShtibMUfbb_GYablbimdTEc7R4A&s" group-title="▶️ MEXICO",ADN 40
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga18wnIc7-tqL9IGHbhcvHiuc/m3u8
-#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="MEXIQUENSE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92fQzmMGPXJR8lHXlh-E3KzVvwKK3jlpB0A&s" group-title="▶️ MEXICO",MEXIQUENSE
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga137dMX4B9FmMe2Z9iK-0t7E/m3u8
-#EXTINF:-1 xui-id="44" tvg-id="MILENIO.mx" tvg-name="MILENIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNKwD6mocvlVkkRmIH1oMbWqTpp5YYjqKjA&s" group-title="▶️ MEXICO",MILENIO
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga17YyI6Svv5z1FFL9VVhOyO8/m3u8
-#EXTINF:-1 xui-id="52" tvg-id="tlnovelas.mx" tvg-name="TL NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV67jeNUSCthg1viCRhhfSJPdgNGamhrFx0w&s" group-title="▶️ MEXICO",TL NOVELAS
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga19n4Q3MBUZFi_lvLY4u5MDo/m3u8
-#EXTINF:-1 xui-id="205798" tvg-id="Al Jazeera HD" tvg-name="AL JAZEERA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2O28gz-FvBHYQATzuC1PNx3MKAV0-p5Y0g&s" group-title="▶️ MEXICO",AL JAZEERA
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga10zQDPGKV6IyZ95JUrlsTsw/m3u8
-#EXTINF:-1 xui-id="205814" tvg-id="" tvg-name="TVP Los Mochis" tvg-logo="https://lokuratv.xyz:443/images/mg9e4VnU5MiobcDarwnBsfC9nfruyEIMo5D4qsEu6q0.png" group-title="▶️ MEXICO",TVP Los Mochis
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1wqM2EoK2bcZsam3_Q8ZO7A/m3u8
-#EXTINF:-1 xui-id="205816" tvg-id="" tvg-name="CHIAP CANAL 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EGSBfAutJodXyT0Jrs-CKbU5yNE3cc10xw&s" group-title="▶️ MEXICO",CHIAP CANAL 10
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga172jSyv7k924jqeXXUiBTQc/m3u8
-#EXTINF:-1 xui-id="205818" tvg-id="" tvg-name="CANAL 44 Chihuahua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmgkzaM41YWtjnM9vqRTIYqMFBSTEInJwQw&s" group-title="▶️ MEXICO",CANAL 44 Chihuahua
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga186bhTYNhmLjpwH2vhtUNtc/m3u8
-#EXTINF:-1 xui-id="205823" tvg-id="" tvg-name="UNIVISION NOTICIAS VX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7p_5gRrsto7ELOqX_-wPQGI5TIFQO7jlsg&s" group-title="▶️ MEXICO",UNIVISION NOTICIAS VX
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1wapa2wRvr9-yzoDKC10lCM/m3u8
-#EXTINF:-1 xui-id="460718" tvg-id="" tvg-name="FORO TV HD" tvg-logo="https://lokuratv.xyz:443/images/lBFW2HYCpgwXr3llJes4wyDVFjvkhtefsGIpZmbX3iuK3BY_pmbHwIJMyj1_-xiwo0TP2W5dELcDd4qLhTjo3GsQCralVR8rBXWzQALl5JwqqEPB8rKXK1QaEZwq5Q3CJySEnfBM-Wt66WRsPb6oRlpQnQO4LDF-3RSwC0CHXb_Y2q-KgDVgZKm9FPPjHWS25cpSCWccpk21v2qCj3hvr8UdQslnWzkDBNlHLi3-BAo.jpg" group-title="▶️ MEXICO",FORO TV HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga15VU_174ciqDRzydx6nAHPA/m3u8
-#EXTINF:-1 xui-id="555444" tvg-id="" tvg-name="Canal 22" tvg-logo="http://super-plus.vip:80/images/Mf2A8IqWBofF071CJSMLApTZ4BnkyOSegnpud3T_sy0oj5E719tkMeYlDZSaHK8ndGeSlfOvS63nYwjdJKH3L3tennvzS-NqAJcnGEbZU5DC0ifbjXwA4zU1WwDqPgta9f0sEnN42VU-jYmXvg5zOkJhfwAYODPCtan6LttpfgEHK_ouuCxbyKTsLYVmp-vA.png" group-title="▶️ MEXICO",Canal 22
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga15Oroqp1oxJrhDqfgRNejIM/m3u8
-#EXTINF:-1 xui-id="663789" tvg-id="" tvg-name="M | A+" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJlPswNoh5NnVV_SZz_IwjznJrrVoLdxkAc0XHdTr3dZR.png" group-title="▶️ MEXICO",M | A+
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1wssYiV2TR7BGG4RA-fxRbY/m3u8
-#EXTINF:-1 xui-id="663791" tvg-id="" tvg-name="M | Azteca 7" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJiNAH55MeIuEqQP63JOivegQKMtfOctg36FBgBnXKn20.png" group-title="▶️ MEXICO",M | Azteca 7
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga111qqOhgfmOtF9_GsaGS3Bk/m3u8
-#EXTINF:-1 xui-id="663792" tvg-id="" tvg-name="M | Azteca 7 HD" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJiNAH55MeIuEqQP63JOivegQKMtfOctg36FBgBnXKn20.png" group-title="▶️ MEXICO",M | Azteca 7 HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga153NuJR-FR25uZ6w3sBBdcs/m3u8
-#EXTINF:-1 xui-id="663793" tvg-id="" tvg-name="M | Azteca Clic" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJtCTdz_ftVAdcU9vl47W7MxYHBMGzuQpf5pXgHp6cK6S.png" group-title="▶️ MEXICO",M | Azteca Clic
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1wiVLuBnGdL5J5YwtF9fTaU/m3u8
-#EXTINF:-1 xui-id="663795" tvg-id="" tvg-name="M | Azteca Corazon HD" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJor2Jjfwbv1Gnv2p0YwoyKY1gUNHClt2M3hYj_JAhl6f.png" group-title="▶️ MEXICO",M | Azteca Corazon HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga10MFhzhOimEuW6bFH0RW6CA/m3u8
-#EXTINF:-1 xui-id="663796" tvg-id="" tvg-name="M | Azteca Internacional" tvg-logo="https://lokuratv.xyz:443/images/IAMUFmTeWjEyDnUUy9fxp9Bk1b2VEq5fMrgLsTki---zotfuj8Aau1OR6ocBNeBiewXsBjo_8x3aw6e6JFXjluYRwxft_ktqk4AJIqjoF2M.png" group-title="▶️ MEXICO",M | Azteca Internacional
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1z-PC2TNdmVM6K55Io0qDjc/m3u8
-#EXTINF:-1 xui-id="663797" tvg-id="" tvg-name="M | Azteca Uno" tvg-logo="https://lokuratv.xyz:443/images/5LT-nZkhU2sZzqQGn-bAnWgle2usu6SvDHTNtiJxzZlLrXIP6AaqyVD7Ho8CRO6-lgoSF94vBajWcCTG1N9eKeIOFVWPwDX3oxklboKAtL4.png" group-title="▶️ MEXICO",M | Azteca Uno
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga10pLfdmetCiZpTu90HN4BrI/m3u8
-#EXTINF:-1 xui-id="663798" tvg-id="" tvg-name="M | Azteca Uno (-1 hora) HD" tvg-logo="https://lokuratv.xyz:443/images/5LT-nZkhU2sZzqQGn-bAnWgle2usu6SvDHTNtiJxzZlLrXIP6AaqyVD7Ho8CRO6-lgoSF94vBajWcCTG1N9eKeIOFVWPwDX3oxklboKAtL4.png" group-title="▶️ MEXICO",M | Azteca Uno (-1 hora) HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga194iwHsIW1zo9PAMKD-hKRU/m3u8
-#EXTINF:-1 xui-id="663802" tvg-id="" tvg-name="M | CANAL 26 Aguascalientes" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJk9rsu_-IGjpeOFCtxXNUn-0NBtQPrwdo-pu2IbuYzQdd_LkVAx5DW0RohbQWPsm-w.png" group-title="▶️ MEXICO",M | CANAL 26 Aguascalientes
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1yi3Nk5zUDkjy17NueeFbT8/m3u8
-#EXTINF:-1 xui-id="663803" tvg-id="" tvg-name="M | Canal 5" tvg-logo="https://lokuratv.xyz:443/images/xlMJWN_ndg2yMNQ1kd9EhKfq7gYzfOMVQp4AIckUUSmgjZuKrII3o6uohaQS7AYQ.png" group-title="▶️ MEXICO",M | Canal 5
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga19gFZcuh9nzyQ9kXXw449Nk/m3u8
-#EXTINF:-1 xui-id="663808" tvg-id="" tvg-name="M | Canal Once" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJvtfWtjs03l4W2DfRJImLVa0aVxPEGCGmyvzxUvpwHxM.png" group-title="▶️ MEXICO",M | Canal Once
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1x1oZncu5oYkG8WQDNM6Vpc/m3u8
-#EXTINF:-1 xui-id="663810" tvg-id="" tvg-name="M | Imagen TV" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJi0wM-uNLAjK4gmH7B__6d0CuPgHtahKS4Q5TYmILe07.png" group-title="▶️ MEXICO",M | Imagen TV
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga11l_yiCB1ngb9XpCgc6C13A/m3u8
-#EXTINF:-1 xui-id="663813" tvg-id="" tvg-name="M | Las Estrellas" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJu4OrcYrhqVoecFJYNY-UDfCrKw7GHGcScCLhlqm1l50.png" group-title="▶️ MEXICO",M | Las Estrellas
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga14W7VR8MYeb8txFLewfWy3Q/m3u8
-#EXTINF:-1 xui-id="663814" tvg-id="" tvg-name="M | Las Estrellas -2 Horas" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJu4OrcYrhqVoecFJYNY-UDfCrKw7GHGcScCLhlqm1l50.png" group-title="▶️ MEXICO",M | Las Estrellas -2 Horas
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1yTPQ4cJ3f5c_wUZzSfGsY0/m3u8
-#EXTINF:-1 xui-id="663815" tvg-id="" tvg-name="M | Estrella HD" tvg-logo="https://lokuratv.xyz:443/images/gaRoQnIKPZwzcNVk1IgsUxV8o6gqXXOj4uJlrWVYwAGaSLg3FlXMopsHjvuGEDxof8X5TcyI4TmkyjlAEdQ-lvARtmlOJcf8bL49b0lTdVv4eKkXq2NzCQCg8M9gbywD.png" group-title="▶️ MEXICO",M | Estrella HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga14NcFd-aBrqCiv33rhZxBj8/m3u8
-#EXTINF:-1 xui-id="663816" tvg-id="" tvg-name="M | Multimedios CDMX" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJgSWum_xg2eOrvjJMAkwOF2iEV-ZTnov_qtXk20V7VtK.png" group-title="▶️ MEXICO",M | Multimedios CDMX
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga19AEfU4FRtrdrYXlVllTJd0/m3u8
-#EXTINF:-1 xui-id="663817" tvg-id="" tvg-name="M | Multimedios Guadalajara" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJgSWum_xg2eOrvjJMAkwOF2iEV-ZTnov_qtXk20V7VtK.png" group-title="▶️ MEXICO",M | Multimedios Guadalajara
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga13_z2sohL02EoRYKI0DPHag/m3u8
-#EXTINF:-1 xui-id="663819" tvg-id="" tvg-name="Multimedios Laguna" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJgSWum_xg2eOrvjJMAkwOF2iEV-ZTnov_qtXk20V7VtK.png" group-title="▶️ MEXICO",Multimedios Laguna
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1-O1bCVc_5aqgsdAOYp967o/m3u8
-#EXTINF:-1 xui-id="663820" tvg-id="" tvg-name="M | Multimedios Monterrey" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJgSWum_xg2eOrvjJMAkwOF2iEV-ZTnov_qtXk20V7VtK.png" group-title="▶️ MEXICO",M | Multimedios Monterrey
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1zmRCh6jStHwp7YnsetMArA/m3u8
-#EXTINF:-1 xui-id="663825" tvg-id="" tvg-name="M | Nu9ve" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJpnjMIXXzsJ4cY3E94_V-Ra_xDYmkF0zOq-W1EEFF_YN.png" group-title="▶️ MEXICO",M | Nu9ve
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1w85C58Zu4_n0iKvmVp-FWE/m3u8
-#EXTINF:-1 xui-id="663826" tvg-id="" tvg-name="M | Nu9ve TV HD" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJpnjMIXXzsJ4cY3E94_V-Ra_xDYmkF0zOq-W1EEFF_YN.png" group-title="▶️ MEXICO",M | Nu9ve TV HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga15305wICOtior3_olVaLg2Q/m3u8
-#EXTINF:-1 xui-id="663837" tvg-id="" tvg-name="M | TV MAS" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJhO1fh9aFEVCqEN1AY7zHxGcTmQtpSR_8YVXM5bReeO-.png" group-title="▶️ MEXICO",M | TV MAS
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga11lok8k5mULpzr3UWxhSRJM/m3u8
-#EXTINF:-1 xui-id="663839" tvg-id="" tvg-name="M| Canal 4" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJgy63CLCSFkC7KNoqYR0mthP2A6_6iBH_XKlVjoBxb2X.png" group-title="▶️ MEXICO",M| Canal 4
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1y9wcWm7Y33iVyBo5NYPgmY/m3u8
-#EXTINF:-1 xui-id="663847" tvg-id="" tvg-name="M | Canal 4 Guajuato HD" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJgy63CLCSFkC7KNoqYR0mthP2A6_6iBH_XKlVjoBxb2X.png" group-title="▶️ MEXICO",M | Canal 4 Guajuato HD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1_zN8grV3qUCrOdphTj9ImI/m3u8
-#EXTINF:-1 xui-id="663848" tvg-id="" tvg-name="M | Mexiquense" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJg_R935JFdwFT1japKK0FbR6n99GvxmQPB3YeC_59i3L.png" group-title="▶️ MEXICO",M | Mexiquense
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1wei7DXapgM66o4j0B3iLx4/m3u8
-#EXTINF:-1 xui-id="663857" tvg-id="" tvg-name="M | Canal 13 Yucatan" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJjJsYHUfvrJ9FDm8Wci818nK1q3MpbYDEiz41W0Q_IT5.png" group-title="▶️ MEXICO",M | Canal 13 Yucatan
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1xwtHzrVvyfTngAo3MzCQsY/m3u8
-#EXTINF:-1 xui-id="663858" tvg-id="" tvg-name="M | Canal 13 Puebla" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJjJsYHUfvrJ9FDm8Wci818nK1q3MpbYDEiz41W0Q_IT5.png" group-title="▶️ MEXICO",M | Canal 13 Puebla
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1-XP5sv6yMVp5H7xevsayc0/m3u8
-#EXTINF:-1 xui-id="663859" tvg-id="" tvg-name="M | Canal 66 Mexicali" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJp5o-eJP9LgiEbmerC0z1Bus5Hj1QGynqYkvtgcyUPYn.png" group-title="▶️ MEXICO",M | Canal 66 Mexicali
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga16xL1m-O3GsKgy04rjU4P6s/m3u8
-#EXTINF:-1 xui-id="663860" tvg-id="" tvg-name="M | Canal 22" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJknqmg8gniokvM7d5NqFDuBrRVWf0s4V4-dJqjH_zhYq.png" group-title="▶️ MEXICO",M | Canal 22
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga15Vp1sW_k1hSFc0ZrnEL-l8/m3u8
-#EXTINF:-1 xui-id="663861" tvg-id="" tvg-name="Canal 4" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJq6mdy2NNpZ-8THU6ds7LVgGT0jGr8a87HAT0C_eQULw6KdKDXwTPeRPuxm21-FMSg.png" group-title="▶️ MEXICO",Canal 4
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1wL1DcCEE13wgbU28CFZQJY/m3u8
-#EXTINF:-1 xui-id="663864" tvg-id="" tvg-name="M | Televisa Yucatan" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJnu2k4iopcLgFI2UYMcGd7D3C-0mJFV-afqUKuL_rSTb.png" group-title="▶️ MEXICO",M | Televisa Yucatan
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga16V9O_gEhCzt5ORKHNlIhVU/m3u8
-#EXTINF:-1 xui-id="663867" tvg-id="" tvg-name="M | Televisa Saltillo (Coahuila)" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJnu2k4iopcLgFI2UYMcGd7D3C-0mJFV-afqUKuL_rSTb.png" group-title="▶️ MEXICO",M | Televisa Saltillo (Coahuila)
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga19WjERrT1v1mvHZdQYKoX6w/m3u8
-#EXTINF:-1 xui-id="663868" tvg-id="" tvg-name="M | Televisa Torreon (Coahuila)" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJnu2k4iopcLgFI2UYMcGd7D3C-0mJFV-afqUKuL_rSTb.png" group-title="▶️ MEXICO",M | Televisa Torreon (Coahuila)
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga18eUkcxDdhVd-pgGKql1-0M/m3u8
-#EXTINF:-1 xui-id="663871" tvg-id="" tvg-name="M | Televisa Zacatecas" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJnu2k4iopcLgFI2UYMcGd7D3C-0mJFV-afqUKuL_rSTb.png" group-title="▶️ MEXICO",M | Televisa Zacatecas
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga1_mQqAZ-uBWTMGif4Puz1C0/m3u8
-#EXTINF:-1 xui-id="663880" tvg-id="" tvg-name="M | Televisa Monterrey FHD" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJnu2k4iopcLgFI2UYMcGd7D3C-0mJFV-afqUKuL_rSTb.png" group-title="▶️ MEXICO",M | Televisa Monterrey FHD
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga15-wF1Fqj68m0BWZAT-Z080/m3u8
-#EXTINF:-1 xui-id="663887" tvg-id="" tvg-name="M | Televisa Mexicali" tvg-logo="https://lokuratv.xyz:443/images/zTIjvwulon1ny7vJb4ekJnu2k4iopcLgFI2UYMcGd7D3C-0mJFV-afqUKuL_rSTb.png" group-title="▶️ MEXICO",M | Televisa Mexicali
-https://deluxe-tv.vip:443/play/V1FU7mplD8qSJAcf8hga14GLRUto0Vw6fYfDwEYHgX8/m3u8 
+#EXTINF:-1 group-title="MEXICO TV",ADN 40
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576557.ts
+
+#EXTINF:-1 group-title="MEXICO TV",AZTECA UNO
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576566.ts
+
+#EXTINF:-1 group-title="MEXICO TV",CANAL 5
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576570.ts
+
+#EXTINF:-1 group-title="MEXICO TV",FORO TV
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576580.ts
+
+#EXTINF:-1 group-title="MEXICO TV",IMAGEN TV
+http://45.12.1.173:8880//live/CR88353526/XEXDD/241993.ts
+
+#EXTINF:-1 group-title="MEXICO TV",AZTECA INTERNACIONAL
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576565.ts
+
+# ENTRETENIMIENTO MÉXICO
+
+#EXTINF:-1 group-title="MEXICO ENTRETENIMIENTO",AZTECA CINEMA
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576562.ts
+
+#EXTINF:-1 group-title="MEXICO ENTRETENIMIENTO",AZTECA CLIC
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576563.ts
+
+#EXTINF:-1 group-title="MEXICO ENTRETENIMIENTO",AZTECA CORAZON
+http://45.12.1.173:8880//live/CR88353526/XEXDD/576564.ts
+
+# DEPORTES MÉXICO
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",TUDN MX HD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/456663.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",TUDN MEX SD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/218637.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",ZONA TUDN
+http://45.12.1.173:8880//live/CR88353526/XEXDD/456662.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN
+http://45.12.1.173:8880//live/CR88353526/XEXDD/588125.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 2 HD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/588130.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 3
+http://45.12.1.173:8880//live/CR88353526/XEXDD/588124.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 3 HD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/588135.ts
+
+#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 4
+http://45.12.1.173:8880//live/CR88353526/XEXDD/588144.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO MIAMI
+http://45.12.1.173:8880//live/CR88353526/XEXDD/219064.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO NEW YORK 47
+http://45.12.1.173:8880//live/CR88353526/XEXDD/165349.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO LOS ÁNGELES KVEA
+http://45.12.1.173:8880//live/CR88353526/XEXDD/165352.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO CHICAGO
+http://45.12.1.173:8880//live/CR88353526/XEXDD/166115.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO HOUSTON
+http://45.12.1.173:8880//live/CR88353526/XEXDD/435161.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO DALLAS
+http://45.12.1.173:8880//live/CR88353526/XEXDD/467623.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO ORLANDO
+http://45.12.1.173:8880//live/CR88353526/XEXDD/171541.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO PHOENIX
+http://45.12.1.173:8880//live/CR88353526/XEXDD/165350.ts
+
+#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO INTERNACIONAL FHD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/54400.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS FHD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/635283.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS HD ARG
+http://45.12.1.173:8880//live/CR88353526/XEXDD/635313.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 1 HD ARG
+http://45.12.1.173:8880//live/CR88353526/XEXDD/635307.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 FHD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/456658.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS + HD
+http://45.12.1.173:8880//live/CR88353526/XEXDD/518959.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 1
+http://45.12.1.173:8880//live/CR88353526/XEXDD/469393.ts
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 2
+http://45.12.1.173:8880//live/CR88353526/XEXDD/518958.ts
