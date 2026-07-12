@@ -1,103 +1,177 @@
 #EXTM3U
-#EXTINF:-1 group-title="MEXICO TV",ADN 40
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576557.ts
-
-#EXTINF:-1 group-title="MEXICO TV",AZTECA UNO
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576566.ts
-
-#EXTINF:-1 group-title="MEXICO TV",CANAL 5
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576570.ts
-
-#EXTINF:-1 group-title="MEXICO TV",FORO TV
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576580.ts
-
-#EXTINF:-1 group-title="MEXICO TV",IMAGEN TV
-http://45.12.1.173:8880//live/CR88353526/XEXDD/241993.ts
-
-#EXTINF:-1 group-title="MEXICO TV",AZTECA INTERNACIONAL
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576565.ts
-
-# ENTRETENIMIENTO MÉXICO
-
-#EXTINF:-1 group-title="MEXICO ENTRETENIMIENTO",AZTECA CINEMA
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576562.ts
-
-#EXTINF:-1 group-title="MEXICO ENTRETENIMIENTO",AZTECA CLIC
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576563.ts
-
-#EXTINF:-1 group-title="MEXICO ENTRETENIMIENTO",AZTECA CORAZON
-http://45.12.1.173:8880//live/CR88353526/XEXDD/576564.ts
-
-# DEPORTES MÉXICO
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",TUDN MX HD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/456663.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",TUDN MEX SD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/218637.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",ZONA TUDN
-http://45.12.1.173:8880//live/CR88353526/XEXDD/456662.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN
-http://45.12.1.173:8880//live/CR88353526/XEXDD/588125.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 2 HD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/588130.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 3
-http://45.12.1.173:8880//live/CR88353526/XEXDD/588124.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 3 HD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/588135.ts
-
-#EXTINF:-1 group-title="MEXICO DEPORTES",ESPN 4
-http://45.12.1.173:8880//live/CR88353526/XEXDD/588144.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO MIAMI
-http://45.12.1.173:8880//live/CR88353526/XEXDD/219064.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO NEW YORK 47
-http://45.12.1.173:8880//live/CR88353526/XEXDD/165349.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO LOS ÁNGELES KVEA
-http://45.12.1.173:8880//live/CR88353526/XEXDD/165352.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO CHICAGO
-http://45.12.1.173:8880//live/CR88353526/XEXDD/166115.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO HOUSTON
-http://45.12.1.173:8880//live/CR88353526/XEXDD/435161.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO DALLAS
-http://45.12.1.173:8880//live/CR88353526/XEXDD/467623.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO ORLANDO
-http://45.12.1.173:8880//live/CR88353526/XEXDD/171541.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO PHOENIX
-http://45.12.1.173:8880//live/CR88353526/XEXDD/165350.ts
-
-#EXTINF:-1 group-title="TELEMUNDO",USA LAT | TELEMUNDO INTERNACIONAL FHD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/54400.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS FHD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/635283.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS HD ARG
-http://45.12.1.173:8880//live/CR88353526/XEXDD/635313.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 1 HD ARG
-http://45.12.1.173:8880//live/CR88353526/XEXDD/635307.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 FHD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/456658.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS + HD
-http://45.12.1.173:8880//live/CR88353526/XEXDD/518959.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 1
-http://45.12.1.173:8880//live/CR88353526/XEXDD/469393.ts
-
-#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 2
-http://45.12.1.173:8880//live/CR88353526/XEXDD/518958.ts
+# TELEMUNDO
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMUNDO
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4809
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/latino/telemundoboston.png" group-title="LAME | LATINO VIP",LA: TELEMUNDO BOSTON
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5005
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/latino/telemundochicago.png" group-title="LAME | LATINO VIP",LA: TELEMUNDO CHICAGO
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5006
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO LAMPA" tvg-logo="" group-title="LAME | LATINO VIP",LA: TELEMUNDO LAMPA
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5015
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/latino/telemundointernacional.png" group-title="LAME | LATINO VIP",LA: TELEMUNDO INTERNACIONAL
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5032
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEMUNDO MEXICO" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TELEMUNDO MEXICO
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5232
+#EXTINF:-1 tvg-id="" tvg-name="CAR: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries/caribbean/telemundo.png" group-title="LAME | CARIBBEAN VIP",CAR: TELEMUNDO
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5372
+#EXTINF:-1 tvg-id="" tvg-name="=====USA | TELEMUNDO=====" tvg-logo="https://docdog.top/logo/countries/us/countrypic.png" group-title="USA VIP",=====USA | TELEMUNDO=====
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/6336
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO AL DÍA HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: TELEMUNDO AL DÍA HD [Sᴛᴠ+]
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/156660
+# DIRECTV
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4748
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS +
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4749
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4750
+#EXTINF:-1 tvg-id="" tvg-name="PE: DIRECTV SPORTS" tvg-logo="" group-title="LAME | PERU VIP",PE: DIRECTV SPORTS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/134174
+#EXTINF:-1 tvg-id="" tvg-name="LA: EC_DIRECTV SPORT" tvg-logo="https://docdog.top/logo/countries/latino/EC_DIRECTVSPORT.png" group-title="LAME | LATINO VIP",LA: EC_DIRECTV SPORT
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4947
+#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECTVSP 1" tvg-logo="https://docdog.top/logo/countries/latino/directvsports.png" group-title="LAME | LATINO VIP",LA: DIRECTVSP 1
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4969
+#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECTVSP 2" tvg-logo="https://docdog.top/logo/countries/latino/directvsports2.png" group-title="LAME | LATINO VIP",LA: DIRECTVSP 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4970
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/colombia/directvsports2.png" group-title="LAME | COLOMBIA VIP",CO: DIRECTV SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5240
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/colombia/directvsports.png" group-title="LAME | COLOMBIA VIP",CO: DIRECTV SPORTS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5241
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/colombia/directtvsportsplus.png" group-title="LAME | COLOMBIA VIP",CO: DIRECTV SPORTS +
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5243
+#EXTINF:-1 tvg-id="" tvg-name="CL: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/chile/directvsports.png" group-title="LAME | CHILE VIP",CL: DIRECTV SPORTS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5275
+#EXTINF:-1 tvg-id="" tvg-name="CL: DirecTV Sports 2 VIP [Live During Events Only]" tvg-logo="" group-title="LAME | CHILE VIP",CL: DirecTV Sports 2 VIP [Live During Events Only]
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/134049
+# ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES VIP",ES: ESPN DEPORTES
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/280
+#EXTINF:-1 tvg-id="ESPN 1 [TV]" tvg-name="NL: ESPN 1" tvg-logo="https://docdog.top/logo/countries/netherlands/espn1.png" group-title="NL | SPORT VIP",NL: ESPN 1
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/1308
+#EXTINF:-1 tvg-id="ESPN 2 [TV]" tvg-name="NL: ESPN 2" tvg-logo="https://docdog.top/logo/countries/netherlands/espn2.png" group-title="NL | SPORT VIP",NL: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/1309
+#EXTINF:-1 tvg-id="ESPN 3 [TV]" tvg-name="NL: ESPN 3" tvg-logo="https://docdog.top/logo/countries/netherlands/espn3.png" group-title="NL | SPORT VIP",NL: ESPN 3
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/1310
+#EXTINF:-1 tvg-id="ESPN 4 [TV]" tvg-name="NL: ESPN 4" tvg-logo="https://docdog.top/logo/countries/netherlands/espn4.png" group-title="NL | SPORT VIP",NL: ESPN 4
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/1311
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN" tvg-logo="" group-title="NL | Categorizing",NL: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/135636
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 4" tvg-logo="https://docdog.top/logo/countries/uk/btsportespn.png" group-title="UK | ENGLAND VIP",UK: VIP TNT SPORT 4
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/1710
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ESPN" tvg-logo="https://docdog.top/logo/countries/uk/espn.png" group-title="UK | ENGLAND VIP",UK: VIP ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/1892
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4757
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4758
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 3
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4759
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN+
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4760
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: ESPN PREMIUM
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4828
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://docdog.top/logo/countries/brazil/espn.png" group-title="LAME | BRAZIL VIP",BR: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4854
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="LAME | BRAZIL VIP",BR: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4855
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: ESPN4
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4859
+#EXTINF:-1 tvg-id="ESPN" tvg-name="PE: ESPN VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: ESPN VIP
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/134207
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="LAME | LATINO VIP",LA: ESPN 3
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5058
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="https://docdog.top/logo/countries/latino/espn2.png" group-title="LAME | LATINO VIP",LA: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5059
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="https://docdog.top/logo/countries/latino/espn.png" group-title="LAME | LATINO VIP",LA: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5060
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png" group-title="LAME | MEXICO VIP",MEX: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5153
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png" group-title="LAME | MEXICO VIP",MEX: ESPN 3
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5154
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO VIP",MEX: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5155
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO VIP",MEX: ESPN EXTRA
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5156
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN 6 Fox 3" tvg-logo="" group-title="LAME | CHILE VIP",CL: ESPN 6 Fox 3
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/134005
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN" tvg-logo="" group-title="LAME | CHILE VIP",CL: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/134006
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN" tvg-logo="" group-title="LAME | CHILE VIP",CL: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/134007
+#EXTINF:-1 tvg-id="" tvg-name="CAR: ESPN 2 CARIBBEAN" tvg-logo="https://docdog.top/logo/countries/caribbean/espn2caribbean.png" group-title="LAME | CARIBBEAN VIP",CAR: ESPN 2 CARIBBEAN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5340
+#EXTINF:-1 tvg-id="" tvg-name="CAR: ESPN CARIBBEAN" tvg-logo="https://docdog.top/logo/countries/caribbean/espncaribbean.png" group-title="LAME | CARIBBEAN VIP",CAR: ESPN CARIBBEAN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5341
+#EXTINF:-1 tvg-id="" tvg-name="=====USA | ESPN+=====" tvg-logo="https://docdog.top/logo/countries/us/countrypic.png" group-title="USA VIP",=====USA | ESPN+=====
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5983
+#EXTINF:-1 tvg-id="" tvg-name="USA: ACCN ESPN" tvg-logo="" group-title="USA VIP",USA: ACCN ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/154614
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN" tvg-logo="" group-title="USA VIP",USA: ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155107
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA VIP",USA: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155108
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN NEWS" tvg-logo="" group-title="USA VIP",USA: ESPN NEWS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155109
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U" tvg-logo="" group-title="USA VIP",USA: ESPN U
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155110
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 02 - ESPN" tvg-logo="" group-title="USA VIP",USA: NHL 02 - ESPN
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/156343
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 03 - ESPN 2" tvg-logo="" group-title="USA VIP",USA: NHL 03 - ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/156344
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 1" tvg-logo="https:/docdog.top/logo/countries/australia/espn-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ESPN 1
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25026
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="https:/docdog.top/logo/countries/australia/espn-2-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ESPN 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25027
+# FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 1
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4764
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4765
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 3
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4766
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4767
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/brazil/foxsports3.png" group-title="LAME | BRAZIL VIP",BR: FOX SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/4860
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 1" tvg-logo="https://docdog.top/logo/countries/mexico/fox-sports-premium-mx.png" group-title="LAME | MEXICO VIP",MEX: FOX SPORTS 1
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5163
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries/mexico/foxsportspremium.png" group-title="LAME | MEXICO VIP",MEX: FOX SPORTS PREMIUM
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5234
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/mexico/foxsports.png" group-title="LAME | MEXICO VIP",MEX: FOX SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5236
+#EXTINF:-1 tvg-id="" tvg-name="CO: FOX SPORTS 1" tvg-logo="https://docdog.top/logo/countries/colombia/foxsports1.png" group-title="LAME | COLOMBIA VIP",CO: FOX SPORTS 1
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5242
+#EXTINF:-1 tvg-id="" tvg-name="CA: FOX SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/canada/foxsportsracing.png" group-title="CANADA VIP",CA: FOX SPORTS RACING
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/5527
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS" tvg-logo="" group-title="USA VIP",USA: FOX SPORTS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155481
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="USA VIP",USA: FOX SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155482
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS NETBASE" tvg-logo="" group-title="USA VIP",USA: FOX SPORTS NETBASE
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/155483
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 501" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-cricket-501-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 501
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25029
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 502" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-league-502-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 502
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25030
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 503" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-503-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 503
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25031
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 504" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-footy-504-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 504
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25032
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 505" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-505-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 505
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25033
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 506" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-506-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 506
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25034
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 507" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-507-hd-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 507
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25035
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS NEWS" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-news-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS NEWS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/25036
+#EXTINF:-1 tvg-id="" tvg-name="SG: FOX SPORTS" tvg-logo="https://docdog.top/logo/countries/singapore/foxsportsflorida.png" group-title="ASIA | SINGAPORE VIP",SG: FOX SPORTS
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/34781
+#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 1 VIP
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/34338
+#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 2 VIP
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/34339
+#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 3 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 3 VIP
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/34340
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/malaysia/foxsports.png" group-title="ASIA | MALAYSIA VIP",MY: FOX SPORTS 2
+http://voodvooxqha.top:8080/vip4371766685554/ce3149b36d17/34609
